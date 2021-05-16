@@ -1,0 +1,57 @@
+nav ul li {
+  display:inline;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: 'Bebas Neue', cursive;
+<!--Esto define el texto en el Header y el Footer-->
+}
+nav ul {
+  font-size:25px;
+  background-color: gray;
+  border-style: solid;
+  border-color: black;
+  border-width: 20px;
+  padding: 2.5%;
+  text-align:center
+<!--Esto define el estilo del Header y el Footer-->
+}
+body {
+  background-color:rgb( 224, 224, 224);
+<!--Esto define el color del background-->
+}
+p {
+  font-size:20px;
+  margin-left: 15%;
+  margin-right: 15%;
+  font-family: 'Ubuntu', sans-serif;
+  line-height: 200%;
+  text-align:justify
+<!--Esto define el texto, su font, sus margenes, y la separación entre lineas-->
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+<!--Esto define estilo de la tabla-->
+}
+
+div.box {
+      text-align: center;
+}
+<!--Esto alineara las imagenes al centro-->
+
+tr {
+  background-color:gray;
+<!--Esto define el bacground de la tabla-->
+}
+
+th, td {
+  vertical-align: top;
+  padding: 5px;
+  text-align: left;
+}
+
+td {
+  color: white;
+<!--Esto es define el color de la letra-->
+}
